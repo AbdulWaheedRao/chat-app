@@ -1,4 +1,3 @@
-import 'package:chatbuddy/mainScreens/chatScreen.dart';
 import 'package:chatbuddy/registration/numberAuthentication.dart';
 import 'package:chatbuddy/registration/otpAuthentication.dart';
 import 'package:chatbuddy/registration/userCredentialsActivity.dart';
